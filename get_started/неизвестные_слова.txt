@@ -33,4 +33,8 @@ poll - опрос
 assume - предполагать
 prompt - запрос
 indicate - указывать
-
+namely - именно
+establish - установить
+instance - пример, экземпляр
+bootstrap - начальная загрузка
+avoid - избегать
