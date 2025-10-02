@@ -12,3 +12,25 @@ redundancy - избыточности
 among - среди, между
 and so on - и так далее
 pipe - труба, дудка
+simplistically - упрощённо
+hole - дырка, отверстия
+strikingly - поразительно
+particularly - в частности
+force - сила, заставлять
+decoupled - разделённый, отделённый
+surface - поверхность, поверхностно
+quick - быстрый
+feed - корм
+feeds - новостные ленты
+attractive - привлекательный
+barely - едва
+possibility - возможность
+verify - проверить
+encounter - столкнуться
+compatible - совместимый
+refer - обращаться
+poll - опрос
+assume - предполагать
+prompt - запрос
+indicate - указывать
+
